@@ -10,4 +10,6 @@ La Version 1.0.1 Dispone de 2300 Credenciales
 
 La Version 1.0.2 Dispone de 616k De Credenciales
 
+La Version 1.0.2 Dispone de 1.27M De Credenciales
+
 -----------------------------------------------------
